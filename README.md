@@ -3,6 +3,8 @@ Fuel UX Extension for Yii 2
 
 This is the [Fuel UX](http://exacttarget.github.io/fuelux) Extension for Yii 2. It encapsulates [Fuel UX components](http://exacttarget.github.io/fuelux/javascript.html), and thus makes using Fuel UX components/plugins in Yii applications extremely easy.
 
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+
 Installation
 ------------
 
